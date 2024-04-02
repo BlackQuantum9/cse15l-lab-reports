@@ -8,7 +8,7 @@
 
 [Hello, CSE 15L!](https://jpolitz.github.io/cse-15l-lab-report/)
 
-![Hello, CSE 15L!]([https://jpolitz.github.io/cse-15l-lab-report/](https://today.ucsd.edu/news_uploads/_social/TritonCenter_HERO1200_Credit_LMN_Architects.jpg))
+![Hello, CSE 15L!](https://today.ucsd.edu/news_uploads/_social/TritonCenter_HERO1200_Credit_LMN_Architects.jpg)
 
 > Hello, CSE 15L!
 
