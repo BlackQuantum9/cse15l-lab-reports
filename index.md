@@ -1,4 +1,4 @@
-`Hello, CSE 15L!` with backticks
+*Hello, CSE 15L!*
 
 **Hello, CSE 15L!**
 
@@ -6,5 +6,28 @@
 
 ## Hello, CSE 15L!
 
+[Hello, CSE 15L!](https://jpolitz.github.io/cse-15l-lab-report/)
+
+![Hello, CSE 15L!](https://jpolitz.github.io/cse-15l-lab-report/)
+
+> Hello, CSE 15L!
+
+* Hello, CSE 15L!
+* Hello, CSE 15L!
+
+1. Hello, CSE 15L!
+2. Hello, CSE 15L!
+
+Hello, CSE 15L!
+---
+
 Hello, CSE 15L!
 ***
+
+`Hello, CSE 15L!` with backticks
+
+```
+# code block
+print 'Hello, '
+print 'CSE 15L!'
+```
