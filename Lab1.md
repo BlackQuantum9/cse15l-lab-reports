@@ -15,7 +15,7 @@
 ![Image](ls.png)
 
 2. ## For `ls with a path to a *directory* as an argument`
-![Image](ls dictionary.png)
+![Image](ls\ dictionary.png)
 
 3. ## For `ls with a path to a *file* as an argument`
 ![Image](ls file.png)
