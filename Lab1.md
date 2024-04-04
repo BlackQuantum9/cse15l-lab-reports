@@ -5,7 +5,7 @@
 ![Image](cd.png)
 
 2. For `cd with a path to a directory as an argument`
-![Image](cddictionary.png)
+![Image](cd\dictionary.png)
 
 3. For `cd with a path to a file as an argument`
 ![Image](cd file.png)
