@@ -28,9 +28,15 @@
 
 2. For `ls with a path to a *directory* as an argument`
 ![Image](<ls directory.png>)
+>The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L".
+>
+>Typing "ls" with a directory name will show all the directories' and files' name inside the directory that entered.
 
 3. For `ls with a path to a *file* as an argument`
 ![Image](<ls file.png>)
+> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages".
+>
+> Typing "ls" with a file name next it returns the name of the file as the output. 
 
 * ## `cat command`
 1. For `cat with *no* arguments`
