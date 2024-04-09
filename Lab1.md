@@ -22,7 +22,7 @@
 * ## `ls command`
 1. For `ls with *no* arguments`
 ![Image](ls.png)
-> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1".
+> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L".
 > 
 > "ls" is a command which will list all the directories' and files' names. By typing "ls" without argument, it prints out all the directories' and files' name for the current directory. 
 
