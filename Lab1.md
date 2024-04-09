@@ -3,15 +3,15 @@
 * ## `cd command`
 1. For `cd with no arguments`
 ![Image](cd.png)
-> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1".
+> The absolute path for this working directory right before the command is '/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1'.
 > 
-> "argument" represents either a file name or a directory name in terminal next command. By typing command "cd" without arguments next to it, it changes the current directory back to home directory by adding "~" behind server name with spaces.
+> 'argument' represents either a file name or a directory name in terminal next command. By typing command 'cd' without arguments next to it, it changes the current directory back to home directory by adding '~' behind server name with spaces. In this case, by typing "cd" without arguments, it changes the working directory back to '/Users/audreyliu'.
 
 2. For `cd with a path to a directory as an argument`
 ![Image](<cd directory.png>)
-> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L".
+> The absolute path for this working directory right before the command is '/Users/audreyliu/Downloads/CSE 15L'.
 >
-> "a directory" means a tile for a file which still has documents under it. "cd" command can only implement directories which are under the current directory. By typing command "cd" with a directory name, it changes from the current directory to the new typed in directory.
+> 'a directory' means 'a tile for a file which still has documents under it'. 'cd' command can only implement directories which are under the current directory. By typing command "cd" with a directory name, it changes from the current directory to the new typed in directory. In my example, after typing 'cd lab\ 1', it changes the working directory from '/Users/audreyliu/Downloads/CSE 15L to '/Users/audreyliu/Downloads/CSE 15L/lab 1'.
 
 3. For `cd with a path to a file as an argument`
 ![Image](<cd file.png>)
@@ -45,7 +45,7 @@
 >
 > Typing "cat" command without any arguments next it will make it read the input and reprint it out. In the screenshot, "tester" and "sample" are two demo I used to show how "cat" command works. 
 
-3. For `cat with a path to a *directory* as an argument`
+2. For `cat with a path to a *directory* as an argument`
 ![Image](<cat directory.png>)
 > The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1".
 >
@@ -53,8 +53,8 @@
 >
 > by typing an unexisting file name next to "cat", it returns "cat: tester.txt: No such file or directory", which same as an error.
 
-5. For `cat with a path to a *file* as an argument`
+3. For `cat with a path to a *file* as an argument`
 ![Image](<cat file.png>)
 > The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages".
 >
-> Typing "cat" with a file name
+> Typing "cat" with a file name which allows "cat" to read, copy, and paste the information from the text file into terminal. 
