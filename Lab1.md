@@ -55,3 +55,6 @@
 
 5. For `cat with a path to a *file* as an argument`
 ![Image](<cat file.png>)
+> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages".
+>
+> Typing "cat" with a file name
