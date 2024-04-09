@@ -41,9 +41,12 @@
 * ## `cat command`
 1. For `cat with *no* arguments`
 ![Image](cat.png)
+> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages".
+>
+> Typing "cat" command without any arguments next it will 
 
-2. For `cat with a path to a *directory* as an argument`
+3. For `cat with a path to a *directory* as an argument`
 ![Image](<cat directory.png>)
 
-3. For `cat with a path to a *file* as an argument`
+4. For `cat with a path to a *file* as an argument`
 ![Image](<cat file.png>)
