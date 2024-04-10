@@ -36,7 +36,7 @@
 ![Image](<ls file.png>)
 > The absolute path for this working directory right before the command is `/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages`.
 >
-> The file name next to the "ls" command must be exist under the current directory, otherwise, it will turns to an error by showing the file does not exist. Typing "ls" with a file name returns the exact name of the file as the output. 
+> The file name next to the "ls" command must be exist under the current directory, otherwise, it will turns to an error by showing the file does not exist. Typing "ls" with a file name returns `the exact name of the file as the output`. 
 
 * ## `cat command`
 1. For `cat with *no* arguments`
