@@ -1,3 +1,5 @@
+{% include_relative Lab1.md %}
+
 *Hello, CSE 15L!*
 
 **Hello, CSE 15L!**
@@ -27,8 +29,6 @@ Hello, CSE 15L!
 `Hello, CSE 15L!` with backticks
 
 ```
-
-{% include_relative Lab1.md %}
 # code block
 print 'Hello, '
 print 'CSE 15L!'
