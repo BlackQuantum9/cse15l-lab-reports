@@ -1,5 +1,3 @@
-{% include_relative Lab1.md %}
-
 *Hello, CSE 15L!*
 
 **Hello, CSE 15L!**
