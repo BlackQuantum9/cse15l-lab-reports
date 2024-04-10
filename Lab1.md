@@ -41,20 +41,18 @@
 * ## `cat command`
 1. For `cat with *no* arguments`
 ![Image](cat.png)
-> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages".
+> The absolute path for this working directory right before the command is `/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages`.
 >
-> Typing "cat" command without any arguments next it will make it read the input and reprint it out. In the screenshot, "tester" and "sample" are two demo I used to show how "cat" command works. 
+> Typing `cat` command without any arguments next to it will make it `read the input and print it out`. In the screenshot, "tester" and "sample" are two demos I used to show how "cat" command works. 
 
 2. For `cat with a path to a *directory* as an argument`
 ![Image](<cat directory.png>)
-> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1".
+> The absolute path for this working directory right before the command is `/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1`.
 >
-> Typing "cat" command with a directory's name will print out "cat: " + the directory's name + ": Is a directory", which means "cat" can recognize that the file is a directory or a text file. And by printing out that line, it can be considered as an error because "cat" cannot read and print a folder/directory.
->
-> by typing an unexisting file name next to "cat", it returns "cat: tester.txt: No such file or directory", which same as an error.
+> Typing `cat` command with a directory's name will print out `cat: ` + the directory's name + `: Is a directory`, which means "cat" can recognize that the file is a directory or a text file, and by showing this output, it can be considered as an error because "cat" cannot read and print a folder/directory. If typing an unexisting file name next to "cat", it returns `cat: ` + file name + `: No such file or directory`, which same as an error as well.
 
 3. For `cat with a path to a *file* as an argument`
 ![Image](<cat file.png>)
-> The absolute path for this working directory right before the command is "/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages".
+> The absolute path for this working directory right before the command is `/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages`.
 >
-> Typing "cat" with a file name which allows "cat" to read, copy, and paste the information from the text file into terminal. 
+> Typing "cat" with an existing file name under current directory allows "cat" to read, copy, and paste the information from the text file into the terminal. 
