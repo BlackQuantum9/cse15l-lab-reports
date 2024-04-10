@@ -1,6 +1,6 @@
 # Lab 1 Report
 ***
-* ## `cd command`
+## `cd command`
 
 1. For `cd with no arguments`
 ![Image](cd.png)
