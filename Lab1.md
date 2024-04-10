@@ -1,6 +1,6 @@
 # Lab 1 Report
 ***
-## `cd command`
+* ## `cd command`
 
 1. For `cd with no arguments`
 ![Image](cd.png)
@@ -21,6 +21,7 @@
 >  `a file` is the title for a ducument which contains information. By typing `cd` with a file name as an argument, it prints out `cd: not a directory: ` plus the `file name` which is the same as an error. Because command cd can only implement a directory, so by sending a file name to it, it will recognize that it is not a directory then return an `error` by printing out that line.
 
 * ## `ls command`
+
 1. For `ls with no arguments`
 ![Image](ls.png)
 > The absolute path for this working directory right before the command is `/Users/audreyliu/Downloads/CSE 15L`.
@@ -40,6 +41,7 @@
 > The file name next to the "ls" command must be exist under the current directory, otherwise, it will turns to an error by showing the file does not exist. Typing "ls" with a file name returns `the exact name of the file as the output`. 
 
 * ## `cat command`
+  
 1. For `cat with no arguments`
 ![Image](cat.png)
 > The absolute path for this working directory right before the command is `/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1/messages`.
