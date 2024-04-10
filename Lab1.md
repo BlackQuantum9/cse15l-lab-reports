@@ -1,6 +1,7 @@
 # Lab 1 Report
 ***
 * ## `cd command`
+
 1. For `cd with no arguments`
 ![Image](cd.png)
 > The absolute path for this working directory right before the command is `/Users/audreyliu/Downloads/CSE 15L/lab 1/lecture1`.
