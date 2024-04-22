@@ -53,6 +53,10 @@
         }
     }
 
+![Image](part11.png)
+
+![Image](part12.png)
+
 # Part 2
 
 # Part 3
