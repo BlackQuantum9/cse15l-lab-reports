@@ -54,8 +54,45 @@
     }
 
 ![Image](part11.png)
+1. **Which methods in your code are called?**
+> The method that called is `handleRequest`.
+
+2. **What are the relevant arguments to those methods, and the values of any relevant fields of the class?**
+> `url`: `http://localhost:2005/add-message?s=Hello&user=jpolitz`
+
+> `user`: `jpolitz`
+
+> `message`: `Hello`
+(Those arguments are given by the url.)
+
+> `output`: `""`
+(At the beginning, there's nothing stored in `output` field yet.)
+
+3. **How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.**
+> After run the "handleRequest", the relevant field "message" changes to "Hello: jpolitz".
 
 ![Image](part12.png)
+1. **Which methods in your code are called?**
+> The method that called is `handleRequest`.
+
+2. **What are the relevant arguments to those methods, and the values of any relevant fields of the class?**
+> `url`: `http://localhost:2005/add-message?s=How%20are%20you&user=yash`
+
+> `user`: `yash`
+
+> `message`: `How are you`
+(Those arguments are given by the url.)
+
+> `output`: `Hello: jpolitz`
+(At the beginning, that's what stored in `output` field before run the "handleRequest" again.)
+
+3. **How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.**
+> After run the "handleRequest", the relevant field "message" changes to
+
+`jpolitz: Hello`
+
+`yash: How are you"`
+
 
 # Part 2
 
