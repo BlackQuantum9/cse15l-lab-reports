@@ -95,6 +95,15 @@
 
 
 # Part 2
+> On the command line of computer, run `ls` with the absolute path
+![Image](part21.png)
+
+> On the command line of the ieng6 machine, run `ls` with the absolute path to the public key  
+![Image](part22.png)
+
+> log into `ieng6 account` without being asked for a password
+![Image](part23.png)
 
 
 # Part 3
+> By learning from week 2 and 3, I learnt that we can run terminal remotely, `ssh` is connected between my persoanl terminal to the school remote cloud. Also, after setting the remote terminal, it allows me to log into it without entering password after first time setup which makes the entire connecting process more easier. Also, from week 2, I learned how to generate a personal url by simply programming it.
